@@ -8,6 +8,10 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+.claude/
+.claude-plugin/
+.gitignore
+.idea
 build/
 develop-eggs/
 dist/
